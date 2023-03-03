@@ -11,6 +11,8 @@ arina4
 arina5
 arina6
 
+arina7
+
 # Naming cheatsheet
 
 - [English language](#english-language)
