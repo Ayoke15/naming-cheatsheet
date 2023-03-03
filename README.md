@@ -3,6 +3,7 @@
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
   </a>
 </p>
+arina1
 
 # Naming cheatsheet
 
